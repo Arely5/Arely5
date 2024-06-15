@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Arely5
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML CSS and JavaScript
+- 🌱 I’m an aspiring frontend developer with skills in HTML, CSS and JS
 
 <!---
 Arely5/Arely5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
