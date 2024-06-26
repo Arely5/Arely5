@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arely5
+- 👋 Hi, I’m Célia
 - 🌱 I’m an aspiring frontend developer with skills in HTML, CSS and JS
 
 <!---
