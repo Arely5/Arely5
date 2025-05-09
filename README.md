@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Célia
-- 🌱 I’m an aspiring frontend developer with skills in HTML, CSS and JS
+- 👩🏻‍💻 Hi, I’m Célia, frontend developer
+- HTML, CSS and JS
+- Learning React
 
 <!---
 Arely5/Arely5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
